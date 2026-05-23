@@ -1,4 +1,5 @@
 # Autonomous Project Mentor
+<img width="1895" height="1032" alt="image" src="https://github.com/user-attachments/assets/6d80b8cb-9397-4c00-850d-4e239a8e0adf" />
 
 ## Quick Start
 
@@ -47,6 +48,8 @@ project-mentor/
 ├── start-frontend.sh
 └── start-all.sh
 ```
+<img width="1019" height="605" alt="image" src="https://github.com/user-attachments/assets/e8a6f12c-50eb-46af-b63b-a0f13af76111" />
+
 
 ## Agents
 
